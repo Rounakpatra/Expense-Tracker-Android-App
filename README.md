@@ -28,14 +28,14 @@ This is a **personal expense tracking Android app** built using **Kotlin**, **Je
 
 ### ➕ Add Expense
 
-<img src="screenshots/add_expense.jpeg" width="300"/>
+<img src="add_expense.jpeg" width="300"/>
 
 ### 🏠 Home Dashboard
 
-<img src="screenshots/home_screen.jpeg" width="300"/>
+<img src="home_screen.jpeg" width="300"/>
 
 ### 📈 Expense Graph
 
-<img src="screenshots/statistics_screen.jpeg" width="300"/>
+<img src="statistics_screen.jpeg" width="300"/>
 
 
